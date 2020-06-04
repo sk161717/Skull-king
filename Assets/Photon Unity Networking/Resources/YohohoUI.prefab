@@ -1,0 +1,57 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &5982253615161542319
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 5982253615161542317}
+  - component: {fileID: 5982253615161542318}
+  m_Layer: 0
+  m_Name: YohohoUI
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 0
+--- !u!4 &5982253615161542317
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5982253615161542319}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 713, y: 403, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &5982253615161542318
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5982253615161542319}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0dc4d161b9a5540988c89528f6bc5bb9, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  yohohoConsole: {fileID: 4816005019545326929, guid: fc2a94e07b541437a9536e93f13bc319,
+    type: 3}
+  decideButton: {fileID: 2171624094034836359, guid: c5b74b27b282640f6a60a4330c477300,
+    type: 3}
+  expectationUI: {fileID: 6589621669805192280, guid: 2bad87d6afc7d4fe9b8b309d7dc8be4d,
+    type: 3}
+  victoryUI: {fileID: 9114521295424264430, guid: c947a8f5716954e7cafd067665f4a718,
+    type: 3}
+  pointUI: {fileID: 7282446181058719370, guid: 5cfe3cd9802314090a9e3ee2c5804c3b, type: 3}
+  nameUIObj: {fileID: 5301750703855194061, guid: 2525c824ecf434640a2c6824c0dd324e,
+    type: 3}
+  uIManager: {fileID: 0}

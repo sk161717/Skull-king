@@ -1,0 +1,54 @@
+﻿<Properties StartupConfiguration="{FF95BC98-7988-49F6-DDFF-36F5530C389A}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/script/UI/Game/MyPlayerNumber.cs">
+    <Files>
+      <File FileName="Assets/script/System/NetworkEventHandler.cs" Line="247" Column="66" IsPinned="True" />
+      <File FileName="Assets/script/Manager/UIManager.cs" Line="24" Column="27" IsPinned="True" />
+      <File FileName="Assets/script/System/Launcher.cs" IsPinned="True" />
+      <File FileName="Assets/script/Manager/EventManager.cs" IsPinned="True" />
+      <File FileName="Assets/script/UI/Game/TakeAwayCardUI.cs" IsPinned="True" />
+      <File FileName="Assets/script/UI/Title/RoomNumberField.cs" />
+      <File FileName="Assets/script/Manager/TitleEventManager.cs" />
+      <File FileName="Assets/script/Card/Deck.cs" Line="34" Column="12" />
+      <File FileName="Assets/script/System/Player.cs" />
+      <File FileName="Assets/script/UI/Game/ScaryMaryUI.cs" />
+      <File FileName="Assets/script/Manager/NetworkManager.cs" />
+      <File FileName="Assets/script/UI/Game/MyPlayerNumber.cs" Line="1" Column="1" />
+      <File FileName="Assets/script/Manager/GameFlowManager.cs" Line="146" Column="1" NotebookId="1" />
+      <File FileName="Assets/script/System/MagicNumberKeeper.cs" Line="9" Column="44" NotebookId="1" />
+      <File FileName="Assets/script/UI/Game/YohohoUI.cs" Line="88" Column="13" NotebookId="1" />
+      <File FileName="Assets/script/System/WinnerCalculator.cs" Line="252" Column="60" NotebookId="1" />
+      <File FileName="Assets/script/Card/CardModel.cs" NotebookId="1" />
+      <File FileName="Assets/script/UI/Game/ScaryMaryButton.cs" NotebookId="1" />
+      <File FileName="Assets/script/UI/Game/NameUI.cs" NotebookId="1" />
+      <File FileName="Assets/script/UI/Game/YohohoConsole.cs" Line="1" Column="1" NotebookId="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Skull King" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="script" expanded="True">
+                <Node name="Card" expanded="True" />
+                <Node name="Manager" expanded="True" />
+                <Node name="System" expanded="True" />
+                <Node name="UI" expanded="True">
+                  <Node name="Game" expanded="True">
+                    <Node name="MyPlayerNumber.cs" selected="True" />
+                  </Node>
+                  <Node name="Title" expanded="True" />
+                </Node>
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="688e45d6-c243-4e14-a56b-95ebe035a4c5" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
